@@ -83,10 +83,5 @@ This is a personal fun project, but feel free to fork it and make it your own! I
 
 ---
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
 
 > Made just for fun 🎉
